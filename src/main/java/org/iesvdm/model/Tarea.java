@@ -6,5 +6,6 @@ public class Tarea {
     String title;
     ArrayList<Pregunta> preguntas;
     boolean permiso;
+    int valor;
     int numIntento;
 }

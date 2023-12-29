@@ -1,9 +1,10 @@
 package org.iesvdm.model;
 
-import java.util.ArrayList;
+import java.util.HashSet;
 
 public class Asignatura {
-    String nombre;
-    ArrayList<Tema> temas;
-    ArrayList<User> users;
+    String nombreAsignatura;
+    HashSet<Curso> cursos;
+    HashSet<Profesor> profesores;
+
 }

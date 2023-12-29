@@ -1,9 +1,9 @@
 package org.iesvdm.model;
 
-import java.util.ArrayList;
+import java.util.HashSet;
 
 abstract class Pregunta {
+    int valor;
     String pregunta;
-    ArrayList<Respuesta> respuestas;
-    double valor;
+    HashSet<Respuesta> respuestas;
 }

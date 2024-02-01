@@ -2,7 +2,7 @@ package org.iesvdm.model;
 
 import java.util.HashSet;
 
-abstract class Pregunta {
+public class Pregunta {
     int valor;
     String pregunta;
     HashSet<Respuesta> respuestas;

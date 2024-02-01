@@ -5,22 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8606a17c-5d3d-45a2-9411-d1efca767267" name="Changes" comment="inicio">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/iesvdm/model/Admin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/iesvdm/model/Clase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/iesvdm/model/Curso.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/iesvdm/model/Fase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/iesvdm/model/PuntuacionFase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/iesvdm/model/PuntuacionTarea.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/iesvdm/model/Usuario.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/iesvdm/model/Asignatura.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/iesvdm/model/Asignatura.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/iesvdm/model/Admin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/iesvdm/model/Admin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/iesvdm/model/Asignatura.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/iesvdm/notUsed/Asignatura.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/iesvdm/model/Curso.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/iesvdm/model/Curso.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/iesvdm/model/Pregunta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/iesvdm/model/Pregunta.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/iesvdm/model/Tarea.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/iesvdm/model/Tarea.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/iesvdm/model/Tema.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/iesvdm/model/Tema.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/iesvdm/model/User.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/iesvdm/notUsed/Estudiante.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/iesvdm/model/Estudiante.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/iesvdm/notUsed/Profesor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/iesvdm/model/Profesor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/iesvdm/model/Profesor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/iesvdm/model/Profesor.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,6 +68,7 @@
       <workItem from="1703150465693" duration="3000" />
       <workItem from="1703158380870" duration="178000" />
       <workItem from="1703844612410" duration="3932000" />
+      <workItem from="1706779840889" duration="951000" />
     </task>
     <task id="LOCAL-00001" summary="inicio">
       <option name="closed" value="true" />

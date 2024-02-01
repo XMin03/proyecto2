@@ -1,7 +1,11 @@
 package org.iesvdm.model;
 
-import java.util.ArrayList;
+import org.iesvdm.notUsed.Asignatura;
 
-public class Curso extends Asignatura{
+import java.util.HashSet;
+
+public class Curso extends Asignatura {
     String nombreCurso;
+    HashSet<Profesor> profesores;
+
 }

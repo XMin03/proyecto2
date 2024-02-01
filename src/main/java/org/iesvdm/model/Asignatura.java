@@ -1,7 +1,4 @@
-package org.iesvdm.notUsed;
-
-import org.iesvdm.model.Curso;
-import org.iesvdm.model.Profesor;
+package org.iesvdm.model;
 
 import java.util.HashSet;
 

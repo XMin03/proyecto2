@@ -6,10 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8606a17c-5d3d-45a2-9411-d1efca767267" name="Changes" comment="inicio">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/iesvdm/model/Admin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/iesvdm/model/Admin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/iesvdm/model/Curso.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/iesvdm/model/Curso.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/iesvdm/model/Profesor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/iesvdm/model/Profesor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/iesvdm/notUsed/Asignatura.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/iesvdm/model/Asignatura.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +64,10 @@
       <workItem from="1703150465693" duration="3000" />
       <workItem from="1703158380870" duration="178000" />
       <workItem from="1703844612410" duration="3932000" />
-      <workItem from="1706779840889" duration="1028000" />
+      <workItem from="1706779840889" duration="1638000" />
+      <workItem from="1707311532974" duration="10000" />
+      <workItem from="1707383884634" duration="4000" />
+      <workItem from="1707384093746" duration="387000" />
     </task>
     <task id="LOCAL-00001" summary="inicio">
       <option name="closed" value="true" />
@@ -85,7 +85,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706780801897</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="inicio">
+      <option name="closed" value="true" />
+      <created>1706780874457</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1706780874457</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
